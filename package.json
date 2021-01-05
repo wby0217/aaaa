@@ -6,7 +6,7 @@
     "antd": "^3.19.5",
     "antd-mobile": "^2.0.0",
     "react-sticky": "^6.0.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.11.0",
     "customize-cra": "^0.2.11",
     "jsonp": "^0.2.1",
